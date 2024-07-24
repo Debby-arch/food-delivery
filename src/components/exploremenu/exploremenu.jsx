@@ -1,8 +1,8 @@
 import React from 'react'
-import './exploremenu.css'
+import './ExploreMenu.css'
 import { menu_list } from '../../assets/assets'
 
-const exploremenu = () => {
+const ExploreMenu = () => {
   return (
     <div className='exploremenu' id='explore-menu'>
       <h1>Explore our menu</h1>
@@ -21,4 +21,4 @@ const exploremenu = () => {
   )
 }
 
-export default exploremenu
+export default ExploreMenu
