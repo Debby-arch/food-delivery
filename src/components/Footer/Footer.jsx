@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react'
 import './Footer.css'
 import { assets } from '../../assets/assets'
@@ -33,7 +34,7 @@ const Footer = () => {
                 </ul>
             </div>
         </div>
-        <hr />
+        <hr/>
         <p className="footer-copyright">Copyright. All Rights Reserved</p>
     </div>
   )
